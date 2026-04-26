@@ -1,4 +1,5 @@
 # Patient Flow Command Center (لوحة عرض إدارة تدفق المرضى)
+[Visit the website](https://patient-flow-command-center.vercel.app/)
 
 ## 🩺 Problem Statement
 Hospitals and large healthcare facilities often struggle with managing patient flow in real-time. Operations managers, ER supervisors, and bed management teams lack a unified, live view of patient bottlenecks, ward occupancies, and critical supply shortages, leading to increased waiting times and sub-optimal resource allocation.
